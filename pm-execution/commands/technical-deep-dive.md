@@ -1,1 +1,0 @@
-../skills/technical-deep-dive/SKILL.md

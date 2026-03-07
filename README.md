@@ -4,9 +4,15 @@ Claude is good at PM work. Too good, sometimes — it knows every framework, nam
 
 I started writing prompts that skip the scaffolding. Give it 2-3 things, get back something usable. Not always perfect, but at least it sounds like a person made a decision.
 
-25 commands across strategy, discovery, execution, and GTM.
+25 skills across strategy, discovery, execution, and GTM.
 
 ## Install
+
+```bash
+npx skills add kaushalvyas010/pm-skills
+```
+
+Or manually:
 
 ```bash
 git clone https://github.com/kaushalvyas010/pm-skills.git ~/pm-skills
@@ -29,16 +35,16 @@ Restart Claude Code. Type `/` and they're all there.
 
 ## Using them
 
-Run a command and Claude asks for what it needs. Or give it context upfront:
+Run a skill and Claude asks for what it needs. Or give it context upfront:
 
 ```
 /write-prd We're adding a waitlist feature for B2B SaaS. Admins need to
 control rollout to new signups without blocking the sales pipeline.
 ```
 
-## Under the hood
+## How it works
 
-Each command is a markdown file symlinked into `~/.claude/commands/`. To update, `git pull` — no reinstall needed.
+Each skill is a folder with a `SKILL.md` file. The install script symlinks them into `~/.claude/skills/` so a `git pull` keeps everything current.
 
 ```bash
 ./install.sh --uninstall

@@ -1,1 +1,0 @@
-../skills/enablement/SKILL.md

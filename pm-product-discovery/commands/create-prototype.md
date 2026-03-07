@@ -1,1 +1,0 @@
-../skills/create-prototype/SKILL.md

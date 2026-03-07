@@ -1,1 +1,0 @@
-../skills/write-campaign-brief/SKILL.md

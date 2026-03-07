@@ -2,39 +2,36 @@
 set -e
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-COMMANDS_DIR="$HOME/.claude/commands"
+SKILLS_DIR="$HOME/.claude/skills"
 
 if [[ "${1}" == "--uninstall" ]]; then
-  echo "Unlinking pm-skills commands..."
+  echo "Unlinking pm-skills..."
   count=0
   while IFS= read -r -d '' file; do
-    name="$(basename "$file")"
-    target="$COMMANDS_DIR/$name"
-    real="$(python3 -c "import os,sys; print(os.path.realpath(sys.argv[1]))" "$file")"
-    if [[ -L "$target" ]] && [[ "$(readlink "$target")" == "$real" ]]; then
+    name=$(basename "$(dirname "$file")")
+    target="$SKILLS_DIR/$name"
+    if [[ -L "$target" ]] && [[ "$(readlink "$target")" == "$(dirname "$file")" ]]; then
       rm "$target"
       echo "  removed: $name"
       ((count++))
     fi
-  done < <(find "$REPO_DIR" -path "*/commands/*.md" -print0)
+  done < <(find "$REPO_DIR" -maxdepth 2 -name "SKILL.md" -print0)
   echo ""
-  echo "Done. Removed $count command(s)."
+  echo "Done. Removed $count skill(s)."
   exit 0
 fi
 
-mkdir -p "$COMMANDS_DIR"
+mkdir -p "$SKILLS_DIR"
 
-echo "Installing pm-skills commands..."
+echo "Installing pm-skills..."
 count=0
 while IFS= read -r -d '' file; do
-  name="$(basename "$file")"
-  # Resolve through symlinks so ~/.claude/commands points at the real SKILL.md
-  real="$(python3 -c "import os,sys; print(os.path.realpath(sys.argv[1]))" "$file")"
-  ln -sf "$real" "$COMMANDS_DIR/$name"
+  name=$(basename "$(dirname "$file")")
+  ln -sf "$(dirname "$file")" "$SKILLS_DIR/$name"
   echo "  linked: $name"
   ((count++))
-done < <(find "$REPO_DIR" -path "*/commands/*.md" -print0)
+done < <(find "$REPO_DIR" -maxdepth 2 -name "SKILL.md" -print0)
 
 echo ""
-echo "Done. $count command(s) installed to $COMMANDS_DIR"
+echo "Done. $count skill(s) installed to $SKILLS_DIR"
 echo "Restart Claude Code to pick them up."

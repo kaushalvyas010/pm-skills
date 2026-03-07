@@ -1,9 +1,0 @@
-{
-  "name": "pm-go-to-market",
-  "version": "1.0.0",
-  "description": "Go-to-market skills for PMs: launch planning, campaign briefs, PR/FAQs, changelogs, blog posts, and sales enablement.",
-  "author": "Kaushal Vyas",
-  "license": "MIT",
-  "category": "product-management",
-  "topics": ["product-management", "go-to-market", "launch", "marketing", "enablement"]
-}

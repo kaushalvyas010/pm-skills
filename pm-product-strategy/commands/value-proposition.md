@@ -1,1 +1,0 @@
-../skills/value-proposition/SKILL.md

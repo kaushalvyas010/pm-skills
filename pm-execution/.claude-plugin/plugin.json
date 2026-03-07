@@ -1,9 +1,0 @@
-{
-  "name": "pm-execution",
-  "version": "1.0.0",
-  "description": "Execution skills for PMs: PRDs, technical deep dives, epics, user stories, internal updates, and meeting notes.",
-  "author": "Kaushal Vyas",
-  "license": "MIT",
-  "category": "product-management",
-  "topics": ["product-management", "execution", "prd", "agile", "documentation"]
-}

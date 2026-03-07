@@ -1,1 +1,0 @@
-../skills/map-assumptions/SKILL.md

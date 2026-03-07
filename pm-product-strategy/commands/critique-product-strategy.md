@@ -1,1 +1,0 @@
-../skills/critique-product-strategy/SKILL.md

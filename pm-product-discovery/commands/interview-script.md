@@ -1,1 +1,0 @@
-../skills/interview-script/SKILL.md

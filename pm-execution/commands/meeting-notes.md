@@ -1,1 +1,0 @@
-../skills/meeting-notes/SKILL.md
