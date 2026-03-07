@@ -9,12 +9,6 @@ I started writing prompts that skip the scaffolding. Give it 2-3 things, get bac
 ## Install
 
 ```bash
-npx skills add kaushalvyas010/pm-skills
-```
-
-Or manually:
-
-```bash
 git clone https://github.com/kaushalvyas010/pm-skills.git ~/pm-skills
 cd ~/pm-skills
 chmod +x install.sh
