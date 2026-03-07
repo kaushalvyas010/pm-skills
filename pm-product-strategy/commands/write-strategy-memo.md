@@ -1,0 +1,1 @@
+../skills/write-strategy-memo/SKILL.md

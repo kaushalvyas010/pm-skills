@@ -1,0 +1,9 @@
+{
+  "name": "pm-product-discovery",
+  "version": "1.0.0",
+  "description": "Product discovery skills for PMs: customer interviews, data analysis, metrics frameworks, experiment design, prototyping, and assumption mapping.",
+  "author": "Kaushal Vyas",
+  "license": "MIT",
+  "category": "product-management",
+  "topics": ["product-management", "discovery", "research", "metrics", "experiments", "prototyping"]
+}

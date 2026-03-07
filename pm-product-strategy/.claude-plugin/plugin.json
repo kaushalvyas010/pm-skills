@@ -1,0 +1,9 @@
+{
+  "name": "pm-product-strategy",
+  "version": "1.0.0",
+  "description": "Product strategy skills for PMs: strategy memos, competitive research, value propositions, business models, and pricing analysis.",
+  "author": "Kaushal Vyas",
+  "license": "MIT",
+  "category": "product-management",
+  "topics": ["product-management", "strategy", "competitive-analysis", "pricing", "business-model"]
+}

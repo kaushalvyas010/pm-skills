@@ -1,0 +1,1 @@
+../skills/write-blog-post/SKILL.md

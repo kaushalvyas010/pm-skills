@@ -1,0 +1,1 @@
+../skills/pricing-analysis/SKILL.md

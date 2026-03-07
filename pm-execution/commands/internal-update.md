@@ -1,0 +1,1 @@
+../skills/internal-update/SKILL.md

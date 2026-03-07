@@ -1,0 +1,1 @@
+../skills/prfaq/SKILL.md
