@@ -13,9 +13,13 @@ Produce an enablement document structured as:
 - **What Changed** — what's new, what's different from before, and if there are
   any behaviour changes customers need to know about. Written for the enablement
   audience, not the customer — assume product knowledge, not marketing language.
-- **Who Cares and Why** — the customer profiles or segments most likely to care
-  about this, and the specific use case or pain this addresses for each. Enough
-  context to route the conversation correctly.
+- **Who Cares and Why** — for each customer profile or segment most likely to care,
+  state three things: (1) the functional job — what they are literally trying to do
+  or accomplish, (2) the emotional job — how they want to feel while doing it or
+  after it's done, (3) the social job — how they want to be seen by others (their
+  team, their boss, their customers) as a result. Generic pain points are not enough.
+  A rep who understands all three can have a different conversation than one who only
+  knows the feature.
 - **What to Say** — 3-5 key talking points. For each: the point, then the "so
   what" for the customer. Not scripts — frames. The rep should be able to adapt
   these to any conversation.

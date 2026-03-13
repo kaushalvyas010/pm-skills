@@ -11,7 +11,15 @@ Write a strategy memo structured as:
 - **What Needs to Be True** — 3-5 key assumptions. Honest about where we could be wrong.
 - **The Ask** — what you need from the reader, if anything.
 
+Before sending, run the kernel test: does this memo have (1) a diagnosis — a clear-eyed
+statement of what's actually true about the situation that makes this bet necessary,
+(2) a guiding policy — the specific approach that addresses the diagnosis (not a goal,
+not a vision — an actual constraint on action), and (3) coherent actions — concrete
+steps that follow logically from the policy and would look different if the policy
+were different? A memo missing any leg should not leave the author's desk.
+
 Voice: precise, confident, direct. No weasel words, no passive voice, no "we believe that"
 hedges. Write like someone prepared to be held accountable for the bet.
 
-Length: 400-600 words. Executive-readable in 3 minutes.
+Length: 400-600 words for straightforward bets. Complex strategic pivots or new market
+entries may run to 800 words — length is justified by complexity, not preference.

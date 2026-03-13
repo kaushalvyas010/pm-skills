@@ -6,6 +6,11 @@ If not provided, ask for: (1) what you're promoting and what it does, (2) the ta
 audience — specifically who, not a demographic abstraction, (3) the desired action
 you want that audience to take.
 
+Before writing the brief, confirm that the product's positioning is settled: who it's
+for, what it does differently from alternatives, and what category it's competing in.
+A campaign built on unsettled positioning will amplify the wrong message at scale.
+If positioning is unclear, resolve it first — the brief cannot be completed without it.
+
 Produce a campaign brief structured as:
 
 - **Objective** — one sentence. What this campaign achieves, measured how, by when.

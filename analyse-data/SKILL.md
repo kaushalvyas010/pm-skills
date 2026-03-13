@@ -12,7 +12,8 @@ Produce a data analysis structured as:
 - **What the Data Shows** — the key findings that support the conclusion. 3-5 points,
   ordered by importance. Each one specific: name the numbers, the directions, the
   magnitudes. No vague qualitative descriptors ("slightly higher", "significant drop")
-  without the actual values.
+  without the actual values. Each finding must pass the "so what?" test before inclusion:
+  if it doesn't change the answer or sharpen the decision, cut it.
 - **What Could Explain This** — 2-3 plausible interpretations of the pattern. Include
   the one that's most flattering, the one that's most alarming, and the one that's
   most mundane. Don't collapse to a single explanation prematurely.

@@ -8,11 +8,18 @@ or a specific exec).
 Write an internal update calibrated to the audience:
 
 **For leadership / exec updates:**
-- Lead with the headline: what's true now that wasn't true last time.
+Structure using Situation / Complication / Resolution: (1) Situation — what is currently
+true (shared context the reader already knows), (2) Complication — what has changed or
+is at risk that makes this update necessary, (3) Resolution — what we are doing about it.
+Then:
 - Status: on track / at risk / blocked — and if not on track, what's the plan.
 - 2-3 bullet points: the decisions made, the progress that matters, the risks live.
 - The ask: what you need from this audience, if anything. Be explicit.
 - What's next: the one thing happening before the next update.
+
+Before sending, apply the AOC test to every sentence: is it Actionable (gives the reader
+something to do or decide), Opinionated (takes a position, not just reports facts), or
+Clear (removes ambiguity rather than adding it)? Cut any sentence that is none of the three.
 
 **For team / sprint updates:**
 - What shipped and what it means for users. Specific, not ceremonial.

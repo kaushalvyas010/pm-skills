@@ -16,6 +16,14 @@ Produce:
   (growth, margin, retention, market signal).
 - **What This Pricing Says** — how does this price position you? What does it attract
   and what does it filter out?
+- **Pricing Failure Modes** — rule out each of the following explicitly:
+  (1) Feature shock — too many tiers or options causing decision paralysis and undermining
+  willingness to pay. (2) Minivation — a genuinely valuable product priced too low,
+  leaving money on the table and signalling low quality. (3) Hidden gem — the right product
+  at the right price but sold to the wrong buyer segment, so value is never perceived.
+  (4) Undead — a product that can't be monetised at any price because the underlying value
+  proposition isn't strong enough. If any of these apply, name it and address it before
+  recommending a price.
 
 Voice: commercial, analytical, opinionated. Pricing decisions are bets — name what
 you're betting on.

@@ -13,8 +13,13 @@ Write a PRD structured as:
 - **Goal** — what success looks like in 6 months. One primary outcome (user or
   business), stated measurably. Not a list of objectives.
 - **Solution** — what we're building. Describe the experience, not the features.
-  Walk through the user's journey through the thing. Where decisions are unresolved,
-  say so explicitly — don't paper over open questions.
+  Walk through the user's journey: what is true for the user today (current condition),
+  and what will be true for them after this ships (target condition)? Narrate the
+  journey between those two states. Where decisions are unresolved, say so explicitly
+  — don't paper over open questions.
+  Quality check: if this section reads as a list of features or UI elements, rewrite it
+  as a user narrative. If you can't describe it as an experience, the solution isn't
+  defined yet.
 - **Scope** — a table: In Scope / Out of Scope / Later. Out of Scope should be
   specific enough to prevent scope creep. Later acknowledges things you're not
   forgetting, just deferring.

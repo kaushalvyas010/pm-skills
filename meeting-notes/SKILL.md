@@ -14,6 +14,10 @@ Produce meeting notes structured as:
 - **Key Context** — the 2-3 pieces of information or reasoning that future readers
   need to understand why the decisions were made. Not a summary of who said what.
   The context that would otherwise live only in the heads of people in the room.
+  If there was genuine disagreement before a decision was reached, capture the
+  divergent positions briefly — not as drama, but as the reasoning that made the
+  final decision non-obvious. Future readers need to know it was a real choice,
+  not a foregone conclusion.
 - **Open Items** — things raised but not resolved. Questions that need answers.
   Decisions deferred. For each: who's responsible for driving it to resolution and by when.
 

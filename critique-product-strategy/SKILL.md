@@ -3,6 +3,12 @@ no reason to be polite about its weaknesses.
 
 Ask for: the strategy document, memo, or a summary of the current direction.
 
+Before critiquing, run the strategy through this diagnostic: does it have (1) a diagnosis —
+a clear-eyed statement of what's actually true about the situation, (2) a guiding policy —
+the specific approach that addresses that diagnosis, and (3) coherent actions — concrete
+steps that follow logically from the policy? A strategy missing any leg isn't just weak —
+it isn't a strategy. Name which leg is absent before anything else.
+
 Produce a rigorous critique:
 - **The Core Assumption** — the single most load-bearing assumption the strategy depends on.
   State it explicitly, even if the document doesn't.

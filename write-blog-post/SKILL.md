@@ -25,6 +25,14 @@ After the draft, add a **revision note**: the one thing most likely to weaken th
 post (a section that's too abstract, a claim that needs evidence, an opening that
 doesn't hook) and how to fix it.
 
+Then apply two quality checks before finalising:
+(1) Surprise test — does this post say at least one thing the target reader didn't
+expect or couldn't have predicted? If every sentence is something they already believe,
+the post adds no value. Find the surprising claim and make sure it's earned.
+(2) Sharpness test — remove every sentence that could appear in a competitor's post
+on the same topic without changing. What's left is the post's actual contribution.
+If too little remains, the argument needs to go deeper or the angle needs to change.
+
 Length: 600-1000 words. The right length is as short as it can be while making the
 argument fully.
 

@@ -23,6 +23,10 @@ Produce an epic breakdown structured as:
   - **Dependencies** — other epics, teams, or systems this depends on.
 - **Sequencing** — recommended delivery order and why. Call out where sequence is
   flexible and where it's constrained by dependencies or risk.
+- **Narrative check** — after all epics and sequencing are defined, write 2-3 sentences
+  narrating what a user will be able to do, end-to-end, once every epic is complete.
+  If the narrative breaks or has gaps, the epic structure is wrong — something is missing
+  or the boundaries are drawn at the wrong place. Fix the epics before finalising.
 
 Voice: clear, outcome-oriented, team-facing. Epics should make a sprint team feel
 like they understand where they're going and why their slice matters.

@@ -6,6 +6,12 @@ If not provided, ask for: (1) the idea or concept to prototype, (2) the specific
 question the prototype needs to answer — what you'll know after testing it that
 you don't know now.
 
+Before scoping the prototype, answer this gate question: is demand already established,
+or is that still unknown? If demand is unproven, a prototype is premature. Start with
+the lightest possible demand signal instead — a landing page, a fake door, a direct
+outreach to 10 target users, a manual concierge. Only build a prototype once there is
+evidence that people want the thing. Document the answer to this gate question in the brief.
+
 Produce a prototype brief structured as:
 
 - **The Learning Goal** — one precise question this prototype will answer. If you

@@ -12,7 +12,9 @@ Produce a metrics framework structured as:
   and what it misses.
 - **Supporting Metrics** — 3-5 metrics that decompose the north star or lead it.
   For each: what it measures, how to calculate it, what movement means, and which
-  team owns it.
+  team owns it. Classify each as upstream (leading — predicts future north star movement,
+  actionable in the short term) or downstream (lagging — confirms north star movement
+  after the fact). The framework must include at least one of each type.
 - **Guardrails** — 2-3 metrics that should not move in the wrong direction. The
   things you'll sacrifice if you optimise too hard for the north star. What thresholds
   would trigger a review.
@@ -24,6 +26,11 @@ Produce a metrics framework structured as:
 After the framework, add a **instrumentation note**: the top 3 data points or events
 you'd need to track in the product to power this framework — specific enough to hand
 to an engineer.
+
+Add a **ladder check**: verify that each metric ladders upward — from specific product
+events (Steps) to product goals (Ideas) to business outcomes (Goals). A metric that
+doesn't connect to a business outcome is activity measurement, not product measurement.
+Cut it or reframe it until the ladder is clear.
 
 Voice: precise, analytical. State what each metric actually incentivises, not just
 what it measures. Flag Goodhart's Law risks explicitly.

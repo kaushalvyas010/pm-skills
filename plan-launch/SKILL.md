@@ -22,6 +22,17 @@ Produce a launch plan structured as:
   (planned with targeted channels), Tier 3 (standard release). Name the tier and
   justify it — over-launching a minor update wastes credibility; under-launching
   a major one wastes the moment.
+- **Launch Motion** — declare which type of launch this is: (1) sales-led (reps are
+  the primary activation vehicle — needs talk tracks, objection handling, and sales
+  enablement assets), (2) marketing-led (campaigns drive awareness and inbound —
+  needs content, paid, and PR coordination), or (3) product-led (users self-discover
+  and activate — needs in-product onboarding, tooltips, and usage triggers). Most
+  launches involve more than one motion, but one should be primary. Different motions
+  require fundamentally different readiness work.
+- **Whole Product check** — list every element a customer needs to get full value
+  from this launch: documentation, onboarding flow, integrations, support readiness,
+  billing changes, partner comms. Anything missing from this list is a launch risk,
+  not a post-launch task.
 - **Channels and Tactics** — the specific channels and what's going out on each.
   In / Out decisions made explicitly. For each channel: what, when, who owns it.
 - **Timeline** — the key milestones from now to launch plus 2 weeks post-launch.

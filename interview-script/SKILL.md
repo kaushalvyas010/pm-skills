@@ -18,6 +18,12 @@ Produce a complete interview script structured as:
   family, consequence questions, the "why" chain, and the "what did you do next" follow.
 - **Closing** — 2 questions. One that opens space for what you haven't thought to ask.
   One that checks if they know anyone else worth talking to.
+- **Decision moment probe** (use if the interview reveals a switching decision or
+  behaviour change): "Walk me through the moment you decided to [change / look for
+  something different / stop doing X]. What was happening at that point? What made
+  now the right time?" Follow up with: "What made you hesitant?" and "What almost
+  stopped you?" This surfaces the forces driving and resisting change — information
+  that open-ended questions about preferences rarely reach.
 
 After the script, add a one-paragraph **interviewer brief**: the 2-3 things most likely
 to go wrong in this specific interview (leading questions to avoid, topics that may

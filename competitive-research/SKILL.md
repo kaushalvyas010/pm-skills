@@ -14,7 +14,11 @@ Produce:
 - **Moat Analysis** — what it would actually take to displace each key competitor.
   Network effects, switching costs, brand, data, distribution.
 - **Strategic Implications** — what does this landscape open up? Where are the gaps?
-  What does competing here require?
+  What does competing here require? End this section with two explicit statements:
+  "Where we play:" (the specific customer segment, use case, or market position this
+  analysis points toward) and "How we win:" (the specific capability or advantage that
+  makes winning there possible). Analysts who describe the landscape without taking a
+  position on these two questions have not finished the work.
 
 Voice: pattern-focused, analytical. The question isn't "what do competitors do" but
 "what does this market's structure reveal."

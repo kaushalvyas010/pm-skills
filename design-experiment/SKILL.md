@@ -23,6 +23,15 @@ Produce an experiment design structured as:
 - **Outcomes and Actions** — three paths: if it works (what you do next), if it fails
   (what you learn and do instead), if results are ambiguous (how you decide). No
   experiment should produce "we need more data" as its only outcome.
+- **Validity Threats** — explicitly address each of the following before the experiment runs:
+  (1) Peeking — will anyone check results before the planned end date? If so, how will you
+  prevent early stopping from inflating false positives? (2) Underpowered test — is the
+  sample size sufficient to detect the minimum effect size you care about? State the
+  calculation. (3) Multiple comparisons — if testing more than one variant or metric,
+  are you correcting for this? (4) Novelty effect — could early results reflect curiosity
+  rather than genuine preference? How long will you run to get past it? (5) Contamination
+  — can treatment and control users influence each other? If so, how is the experiment
+  isolated?
 - **What This Experiment Can't Tell You** — the limits of the signal. What would
   still be unknown even after a clear result.
 

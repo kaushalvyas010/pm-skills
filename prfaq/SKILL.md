@@ -32,6 +32,10 @@ the uncomfortable ones. Answer them as you'd answer them on launch day.
 
 Internal FAQs (4-6): the questions leadership, engineering, and your team will ask.
 Include: why now, what we're not building, how we'll know it worked, the biggest risk.
+One internal FAQ must address: does this delight customers in a way that also improves
+our margins and is hard for competitors to copy? If it only satisfies one or two of
+those three — delightful but margin-neutral, or differentiated but easily cloned —
+the team needs to be honest about what they're building and why it's still worth doing.
 
 Voice: crisp and customer-obsessed in the PR; honest and direct in the FAQs. The PR
 should make someone want this. The FAQs should prove you've thought it through.

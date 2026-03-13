@@ -20,8 +20,17 @@ Produce an assumption map structured as:
 - **Evidence Audit** — for each prioritised assumption: what you currently know
   (data, analogues, expert input), what you're inferring, and what you're hoping.
   Be specific about the difference.
+- **Test Cards** — for each prioritised assumption, produce a Test Card:
+  - *Hypothesis:* We believe [assumption].
+  - *Test:* To verify this, we will [specific method — survey, fake door, interview, prototype, etc.].
+  - *Metric:* We will measure [observable signal].
+  - *Threshold:* We will consider this validated if [specific result]. We will consider it
+    invalidated if [specific counter-result].
+  An assumption without a test card is a wish, not a plan.
 - **Recommended Next Steps** — the 2-3 cheapest tests that would most reduce your
-  risk. Ordered by expected information value per unit of effort.
+  risk. Ordered by expected information value per unit of effort. For each: flag whether
+  a lightweight demand signal (e.g. landing page, fake door, direct customer outreach)
+  is sufficient before committing to a full build-and-measure cycle.
 
 Voice: unflinching, diagnostic. The purpose of this exercise is to surface what you
 don't know, not to validate what you've decided. Call out hope masquerading as evidence.

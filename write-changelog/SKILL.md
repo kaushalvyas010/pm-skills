@@ -26,5 +26,15 @@ Calibrate length to impact: a minor fix is 2-3 sentences. A major feature change
 might be a short paragraph plus bullets. Never pad. Never describe the engineering
 work. Never apologise for the old behaviour.
 
+Format rules:
+- One change per entry. Do not bundle unrelated changes under a single heading.
+- Present tense only. "You can now X" not "We added X" or "We have added X."
+- User-facing language only. No internal ticket references, system names, or
+  engineering terminology the user would not recognise.
+- Voice consistency. Read the previous 3-5 changelog entries before writing. This
+  entry should be indistinguishable from them in tone, formality, and structure.
+  A changelog is a product's ongoing conversation with its users — it should sound
+  like the same voice every time.
+
 Voice: direct, human, user-facing. Write for the person who will encounter this change
 and needs to know exactly how it affects them.
