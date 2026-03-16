@@ -1,14 +1,8 @@
 # PM Skills
 
-There's a document that every PM has written and every PM has nodded at in a meeting and nobody can quote two days later. The strategy memo that considers the landscape carefully and lands on: we should move thoughtfully. The PRD where the solution is six bullet points. The metrics framework with three north stars because they're all important.
+The best product practitioners have something embedded in the way they operate that's hard to name. An instinct for when a strategy is missing its diagnosis. A reflex that fires when a roadmap is a feature list dressed as a plan. A standard that runs on every finding before they'll say it out loud. They've done this long enough that it's just how they think — they don't apply these things, they are these things.
 
-You know the one.
-
-The frustrating thing isn't that it's wrong. It's that it's not wrong enough to argue with — and work nobody argues with is work that never gets better.
-
-The best practitioners have something embedded that's hard to name. An instinct for when a strategy is missing its diagnosis. A reflex that fires when a roadmap is a feature list dressed as a plan. A standard that runs on every finding before they'll say it out loud. They've done this long enough that it's just how they think — they don't apply these things, they are these things.
-
-Claude isn't these things. It's very good at thorough. These prompts try to close the gap — not by making Claude smarter, but by embedding the specific judgment each artifact type needs. Give it context, get back something with a position in it. Not always right. But at least worth disagreeing with.
+Claude isn't these things. These prompts try to close the gap — not by making Claude smarter, but by embedding the specific judgment each artifact type needs. Give it context, get back something with a position in it. Not always right. But at least worth disagreeing with.
 
 25 skills across strategy, discovery, execution, and GTM.
 
